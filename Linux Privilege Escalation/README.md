@@ -1,4 +1,4 @@
-priv.sh is a quick privilege escalation script that uses commands I found myself frequently using
+priv.sh is a quick privilege escalation enumeration script that uses commands I found myself frequently using
 in capture the flag events for Linux privilege escalation.
 
 Use:
