@@ -1,3 +1,6 @@
+priv.sh is a quick privilege escalation script that uses commands I found myself frequently using
+in capture the flag events for Linux privilege escalation.
+
 Use:
 
 1. Download priv.sh or copy into a text editor directly.
