@@ -1,2 +1,2 @@
-@py "path_to_bat_file" %*
+@py "path_to_python_script" %*
 @pause
